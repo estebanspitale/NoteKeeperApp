@@ -4,7 +4,7 @@
 
 The application allows users to create, view, edit, and delete notes with custom titles and content. It implements persistent local storage using Android's `SharedPreferences` combined with JSON serialization, ensuring that user data remains intact even after closing the application or restarting the device. Additionally, it features multi-screen navigation between the main note manager and an informational "About" screen.
 
-[Software Demo Video](VIDEO YOUTUBE)
+[Software Demo Video](https://youtu.be/PbLg68VMz4M)
 
 # Development Environment
 
